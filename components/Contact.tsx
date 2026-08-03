@@ -23,7 +23,7 @@ export default function Contact() {
           </p>
 
           <a
-            href="https://wa.me/628987143945"
+            href="https://wa.me/628987138945"
             target="_blank"
             rel="noopener noreferrer"
             className="contact-button"
