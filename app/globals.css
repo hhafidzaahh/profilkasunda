@@ -1068,3 +1068,47 @@ body {
     gap: 10px;
   }
 }
+/* =========================
+   MOBILE GALLERY FIX
+========================= */
+
+@media (max-width: 768px) {
+  .gallery {
+    width: 100%;
+    padding: 80px 20px;
+    overflow: hidden;
+  }
+
+  .gallery-container {
+    width: 100%;
+    max-width: 100%;
+    overflow: hidden;
+  }
+
+  .gallery-grid {
+    width: 100%;
+    display: grid;
+    grid-template-columns: minmax(0, 1fr);
+    gap: 20px;
+  }
+
+  .gallery-item,
+  .gallery-item-1,
+  .gallery-item-2,
+  .gallery-item-3,
+  .gallery-item-4,
+  .gallery-item-5,
+  .gallery-item-6 {
+    width: 100%;
+    min-width: 0;
+    max-width: 100%;
+    grid-column: 1 / -1;
+    aspect-ratio: 16 / 10;
+  }
+
+  .gallery-image {
+    width: 100%;
+    max-width: 100%;
+    object-fit: cover;
+  }
+}
