@@ -14,7 +14,7 @@ const activities = [
       "Mengadakan Kelas Inspirasi merupakan acara di mana seniman dan tokoh budaya ternama berbagi pengalaman dan inspirasi dengan para siswa, yang bertujuan untuk memotivasi mereka agar mengeksplorasi minat mereka dalam bidang seni dan budaya serta memberikan wawasan tentang berbagai karier yang potensial.",
   },
   {
-    image: "/images/kegiatan-3.jpEg",
+    image: "/images/kegiatan-3.jpeg",
     title: "Pameran",
     description:
       "Menyelenggarakan pameran dan pertunjukan seni, memamerkan karya partisan kepada publik, dengan tujuan untuk mempromosikan kreativitas mereka dan mendapatkan apresiasi publik. Tujuannya adalah untuk memberikan siswa pengalaman dalam menyelenggarakan pameran dan pertunjukan, sehingga meningkatkan kepercayaan diri mereka dalam memamerkan karya seni.",
