@@ -26,9 +26,6 @@ export default function About() {
           </h2>
 
           <p>
-            Dalam sebuah pelestarian seni maupun tradisi tradisi yang lain, di perlukan sebuah pertunjukan atau show case sebagai bentuk nyata dalam pemeliharaan dan pengenalan, agar masyarakat lebih mengenal apa itu budaya dan tradisi.
-          </p>
-          <p>
             KASUNDA “ Kampung Seni Urang Sunda “ adalah sebuah sanggar seni yang bergerak di dalam bidang pendidikan dan pengembangan budaya sunda. Kasunda sendiri berdiri sejak 22 November 2012 dan berlokasi di Jl. Walini Kp. Babakan Asta Rt.09/11 Desa Rancaekek Wetan Kecamatan Rancaekek Kabupaten Bandung Provinsi Jawa Barat.
           </p>
           <p>
